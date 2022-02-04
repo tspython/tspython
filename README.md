@@ -1,1 +1,1 @@
-![DarkDragon345's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkDragon345&show_icons=true)
+![DarkDragon345's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkDragon345&show_icons=true&count_private=true)
