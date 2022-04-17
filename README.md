@@ -1,4 +1,4 @@
-# Hi There! I'm Tushar Shrivastav
+# Hi There! I'm Tushar Shrivastav <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ## Welcome to my Github
 
@@ -40,6 +40,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 <br />
 
 ![tspython's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tspython&show_icons=true&count_private=true)
