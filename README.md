@@ -1,6 +1,10 @@
 # Hi There! I'm Tushar Shrivastav
 
 ## Welcome to my Github
+
+<br><br>
+
+###Socials
 <a href="https://twitter.com/tspython6535">
   <img align="left" alt="Tushar Shrivastav | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
