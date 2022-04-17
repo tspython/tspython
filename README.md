@@ -9,6 +9,8 @@
 <a href="https://www.linkedin.com/in/tushar-shrivastav-29bb5920b/">
   <img align="left" alt="Tushar's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tspython.visitor-badge)
 <br />
 
 ### Languages
@@ -18,7 +20,6 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" />
-
 <br />
 
 ### Frameworks
