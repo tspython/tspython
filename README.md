@@ -28,6 +28,8 @@
 ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 <br />
 
 ### Tools
@@ -38,8 +40,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-
-<br><br>
+<br />
 
 ![tspython's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tspython&show_icons=true&count_private=true)
 
