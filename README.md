@@ -1,3 +1,8 @@
+# Hi There! I'm Tushar Shrivastav
+
+## Welcome to my Github
+
+
 I am a freshman at Santa Clara University studying Computer Science. 
 I am interested in Automation with AI & Machine Learning, and Embedded Systems.
 
