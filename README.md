@@ -1,6 +1,12 @@
 # Hi There! I'm Tushar Shrivastav
 
 ## Welcome to my Github
+<a href="https://twitter.com/tspython6535">
+  <img align="left" alt="Tushar Shrivastav | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/tushar-shrivastav-29bb5920b/">
+  <img align="left" alt="Tushar's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ### Languages
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
