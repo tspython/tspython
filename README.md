@@ -1,7 +1,7 @@
 # Hi There! I'm Tushar Shrivastav <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ## Welcome to my Github
-### 👾 About Me
+### 👾 About Me ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tspython.visitor-badge)
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying CS at Santa Clara University.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching as part of [EPIC IOT](https://epiciot.tech/). DOxy and Hydration Automation Projects.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017, starting with C.
@@ -14,7 +14,6 @@
   <img align="left" alt="Tushar's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tspython.visitor-badge)
 [![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tspython@hotmail.com)
 <br />
 
