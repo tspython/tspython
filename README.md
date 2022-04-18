@@ -15,6 +15,7 @@
 </a>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tspython.visitor-badge)
+[![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tspython@hotmail.com)
 <br />
 
 ### Languages
