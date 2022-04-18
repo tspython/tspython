@@ -1,6 +1,10 @@
 # Hi There! I'm Tushar Shrivastav <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ## Welcome to my Github
+### 👾 About Me
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying CS at Santa Clara University.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching as part of [EPIC IOT](https://www.scu.edu/engineering/faculty/shaghaghi-navid/epic-lab/). DOxy and Hydration Automation Projects.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017, starting with C.
 
 ### Socials
 <a href="https://twitter.com/tspython6535">
