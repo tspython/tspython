@@ -1,4 +1,4 @@
-# Hi There! I'm Tushar Shrivastav <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hi There! I'm Tushar Shrivastav :wave:
 
 ## Welcome to my Github
 ### 👾 About Me ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tspython.visitor-badge)
