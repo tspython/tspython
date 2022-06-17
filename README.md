@@ -3,7 +3,7 @@
 ## Welcome to my Github
 ### 👾 About Me ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tspython.visitor-badge)
 &nbsp;&nbsp;&nbsp;:pencil2: &nbsp;Currently studying CS at Santa Clara University.\
-&nbsp;&nbsp;&nbsp;:office_worker:	&nbsp;Incoming Co-Op Software Engineer @ [Realtor.com](https://www.realtor.com/).\
+&nbsp;&nbsp;&nbsp;:office_worker:	&nbsp;Co-Op Software Engineer @ [Realtor.com](https://www.realtor.com/).\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching as part of [EPIC IOT](https://epiciot.tech/). DOxy and Hydration Automation Projects.\
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp; Interested in Embedded Systems and Software Development. Looking into Blockchain, and CS Theory.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017, starting with C.
