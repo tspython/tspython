@@ -19,6 +19,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tspython@hotmail.com)
 <br />
 
-![tspython's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tspython&show_icons=true&count_private=true)
+<!---![tspython's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tspython&show_icons=true&count_private=true)--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tspython&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
